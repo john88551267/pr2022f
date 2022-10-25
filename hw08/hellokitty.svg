@@ -3,42 +3,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
   height="512" width="512" viewBox="0 0 512 512">
 
-  <image href="https://s0.gifyu.com/images/hello_kitty_Hello_Kitty_Head_ClipArt_in_PNG_File.png" height="512" width="512" />
 
-  <rect width="512" height="512" stroke="red" fill="rgba(255,255,255,0.95)" opacity="0.95" ></rect>
 
-  <text x="2" y="12" font-size="12" text-anchor="start" fill="red">0</text>
-  <path d="M256  64 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="68" font-size="12" text-anchor="start" fill="red">64</text>
-  <path d="M256 128 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="132" font-size="12" text-anchor="start" fill="red">128</text>
-  <path d="M256 192 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="196" font-size="12" text-anchor="start" fill="red">192</text>
-  <path d="M256 256 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="260" font-size="12" text-anchor="start" fill="red">256</text>
-  <path d="M256 320 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="324" font-size="12" text-anchor="start" fill="red">320</text>
-  <path d="M256 384 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="388" font-size="12" text-anchor="start" fill="red">384</text>
-  <path d="M256 448 H0 H512" stroke="lightgray" fill="white"></path>
-  <text x="2" y="452" font-size="12" text-anchor="start" fill="red">448</text>
-  <text x="2" y="510" font-size="12" text-anchor="start" fill="red">512</text>
 
-  <path d="M64  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="58" y="12" font-size="12" text-anchor="start" fill="red">64</text>
-  <path d="M128  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="118" y="12" font-size="12" text-anchor="start" fill="red">128</text>
-  <path d="M195  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="186" y="12" font-size="12" text-anchor="start" fill="red">192</text>
-  <path d="M256  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="246" y="12" font-size="12" text-anchor="start" fill="red">256</text>
-  <path d="M320  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="310" y="12" font-size="12" text-anchor="start" fill="red">320</text>
-  <path d="M384  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="374" y="12" font-size="12" text-anchor="start" fill="red">384</text>
-  <path d="M448  0 V512" stroke="lightgray" fill="white"></path>
-  <text x="438" y="12" font-size="12" text-anchor="start" fill="red">448</text>
-  <text x="492" y="12" font-size="12" text-anchor="start" fill="red">512</text>
+  <!-- 臉 -->
+  <path d="M90 185 Q49 260 67 320 Q91 390 170 410 Q260 430 350 411 Q420 396 442 325 Q455 260 430 190 Q440 120 420 95 Q400 80 340 125 Q260 109 180 125 Q110 95 95 105 Q66 120 85 195" stroke="black" fill="white" stroke-width="11"/>
+  <!-- 左鬍鬚 -->
+  <path d="M15 290 Q64 285 62 290" stroke="black" stroke-width="9" fill="none"/> 
+  <path d="M35 340 Q65 326 70 330" stroke="black" stroke-width="9" fill="none"/> 
+  <path d="M50 390 Q90 360 90 360" stroke="black" stroke-width="9" fill="none"/> 
+  <!-- 右鬍鬚  -->
+  <path d="M446 285 Q448 275 500 290" stroke="black" stroke-width="9" fill="none"/> 
+  <path d="M440 320 Q465 318 485 330" stroke="black" stroke-width="9" fill="none"/> 
+  <path d="M428 357 Q448 365 480 382" stroke="black" stroke-width="9" fill="none"/> 
+  <!-- 眼睛+鼻子 -->
+  <ellipse stroke="black" fill="black"  stroke-width="3" cx="155" cy="300" rx="10" ry="17"/>
+  <ellipse stroke="black" fill="black"  stroke-width="3" cx="355" cy="300" rx="10" ry="17"/>
+  <ellipse stroke="black" fill="#af931c"  stroke-width="6" cx="257" cy="340" rx="19" ry="13"/>
+  <!-- 蝴蝶結  -->
+  <path d="M300 90 Q350 70 360 180 Q380 240 400 244 C420 250 463 235 455 170 Q446 130 390 160 L320 200 Q260 215 256 175 Q265 115 302 89" stroke="black" stroke-width="11" fill="#e72235"/> 
+  <ellipse stroke="black" fill="#e72235"  stroke-width="11" cx="322" cy="159" rx="20" ry="20"/>
+  <ellipse stroke="black" fill="#e72235"  stroke-width="11" cx="400" cy="195" rx="16" ry="16"/>
+  <ellipse stroke="black" fill="#e72235"  stroke-width="11" cx="360" cy="180" rx="35" ry="35"/>
+ <path d="M190 380 Q250 400 320 380" stroke="black" stroke-width="9" fill="none"/> 
+  <path d="M110 260 Q150 300 200 250" stroke="black" stroke-width="9" fill="none"/> 
+<path d="M310 260 Q350 300 390 260" stroke="black" stroke-width="9" fill="none"/> 
+</svg>
+
 
   <path d="M256 256 V270 V242 M256 256 H270 H242" stroke="black" fill="white"></path>
 
