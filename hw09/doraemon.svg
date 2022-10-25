@@ -3,35 +3,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
   height="512" width="512" viewBox="0 0 512 512">
 
- <?xml version="1.0" encoding="utf-8"?>
+  <?xml version="1.0" encoding="utf-8"?>
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
   height="512" width="512" viewBox="0 0 600 600">
    
 
- 
- 
-  
     
   <!-- 臉-外 -->
-  <ellipse stroke="black" fill="#00a0e9"  stroke-width="3" cx="266" cy="190" rx="186" ry="176"/>
+  <ellipse stroke="black" fill="#00a0e9"  stroke-width="3" cx="266" cy="183" rx="186" ry="176"/>
   <!-- 臉-內 -->
-  <path d="M115 131 C 130 50 400 50 414 131 L426 202 Q420 380 270 370 Q 120 370 100 201z " stroke="black" 
+  <path d="M115 131 C 130 50 400 50 414 131 L426 202 Q390 370 270 360 Q 135 370 100 201z " stroke="black" 
   fill="white" stroke-width="3"/>
   <!-- 左鬍鬚 -->
-  <path d="M220 155 H20" stroke="black" stroke-width="3"/> 
-  <path d="M220 136 L50 113" stroke="black" stroke-width="3"/>
-  <path d="M220 177 L60 193" stroke="black" stroke-width="3"/>
+  <path d="M220 155 H13" stroke="black" stroke-width="3"/> 
+  <path d="M220 136 L15 113" stroke="black" stroke-width="3"/>
+  <path d="M220 177 L16 193" stroke="black" stroke-width="3"/>
   <!-- 右鬍鬚  -->
   <path d="M509 154 H309" stroke="black" stroke-width="3"/> 
-  <path d="M306 136 L500 111" stroke="black" stroke-width="3"/>
-  <path d="M309 177 L490 191" stroke="black" stroke-width="3"/>
+  <path d="M306 136 L497 111" stroke="black" stroke-width="3"/>
+  <path d="M309 177 L507 191" stroke="black" stroke-width="3"/>
   <!-- 中線 -->
   <path d="M265 100 V197" stroke="black" stroke-width="3"/> 
   <!-- 嘴巴 --> 
-  <path d="M127 210 Q 256 255, 400 210 C330 370,198 356,128,210" stroke="black" fill="#d0112b" 
+  <path d="M127 210 Q 256 285, 400 210 C330 370,198 356,128,210" stroke="black" fill="#d0112b" 
   stroke-width="3"/>
-  
+  <path d="M192 295 Q 226 250, 265 280 Q 310 250, 340 295 Q 275 356, 192 295" stroke="black" fill="#fa4c06" 
+  stroke-width="3"/>
   <!-- 臉頰 --> 
   <path d="M135 140 A19 20,0 0 0 109 203 Q 125 210 , 128 210 " stroke="black" fill="white" stroke-width="3"/>
   <path d="M380 140 A19 20,0 0 1 424 203 Q 410 210 , 400 210 " stroke="black" fill="white" stroke-width="3"/>
@@ -43,15 +41,13 @@
 
   <!-- 鼻子  -->
   <ellipse stroke="black" fill="#d0112b"  stroke-width="3" cx="265" cy="110" rx="25" ry="25"/>
-
-
  
-  
+ 
   
   </svg>
 
 
-
+</svg>
 
 
     
